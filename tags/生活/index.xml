@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>生活 on 有个网友 的博客</title>
+    <link>https://wzh1213k.github.io/tags/%E7%94%9F%E6%B4%BB/</link>
+    <description>Recent content in 生活 on 有个网友 的博客</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 20 May 2026 12:30:00 +0800</lastBuildDate>
+    <atom:link href="https://wzh1213k.github.io/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>重新开始</title>
+      <link>https://wzh1213k.github.io/posts/first-post/</link>
+      <pubDate>Wed, 20 May 2026 12:30:00 +0800</pubDate>
+      <guid>https://wzh1213k.github.io/posts/first-post/</guid>
+      <description>关于这个博客的故事</description>
+    </item>
+    <item>
+      <title>你好，新博客</title>
+      <link>https://wzh1213k.github.io/post/hello/</link>
+      <pubDate>Wed, 20 May 2026 12:00:00 +0800</pubDate>
+      <guid>https://wzh1213k.github.io/post/hello/</guid>
+      <description>重新出发</description>
+    </item>
+    <item>
+      <title>你好，新博客</title>
+      <link>https://wzh1213k.github.io/posts/hello/</link>
+      <pubDate>Wed, 20 May 2026 12:00:00 +0800</pubDate>
+      <guid>https://wzh1213k.github.io/posts/hello/</guid>
+      <description>重新出发</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 有个网友 的博客</title>
+    <link>https://wzh1213k.github.io/post/</link>
+    <description>Recent content in Posts on 有个网友 的博客</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 20 May 2026 12:00:00 +0800</lastBuildDate>
+    <atom:link href="https://wzh1213k.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>你好，新博客</title>
+      <link>https://wzh1213k.github.io/post/hello/</link>
+      <pubDate>Wed, 20 May 2026 12:00:00 +0800</pubDate>
+      <guid>https://wzh1213k.github.io/post/hello/</guid>
+      <description>重新出发</description>
+    </item>
+  </channel>
+</rss>
