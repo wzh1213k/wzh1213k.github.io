@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://wzh1213k.github.io/sitemap-index.xml
